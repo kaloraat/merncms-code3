@@ -1,0 +1,38 @@
+{
+  "name": "client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ant-design/icons": "^4.7.0",
+    "@react-hook/window-size": "^3.0.7",
+    "antd": "^4.19.2",
+    "axios": "^0.26.1",
+    "core-js": "^3.22.5",
+    "dayjs": "^1.11.1",
+    "generate-password": "^1.7.0",
+    "next": "^12.1.0",
+    "prosemirror-tables": "^1.1.1",
+    "react": "^17.0.2",
+    "react-count-to": "^0.12.0",
+    "react-dom": "^17.0.2",
+    "react-hot-toast": "^2.2.0",
+    "react-image-file-resizer": "^0.4.7",
+    "react-is": "^18.0.0",
+    "react-share-social": "^0.1.48",
+    "rich-markdown-editor": "^11.21.3",
+    "styled-components": "^5.3.5"
+  },
+  "overrides": {
+    "prosemirror-tables": "^1.1.1"
+  }
+}
